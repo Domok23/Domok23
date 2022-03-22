@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Domok23
-- 👀 I’m interested in Web Programming
+- 👀 I’m interested in Web and Android Develope
 - 🌱 I’m currently learning JavaScript and BackEnd
 - 💞️ I’m looking to collaborate on small start up
 - 📫 How to reach me ig: whyuoktv__ or email: wahyur2bro@gmail.com
