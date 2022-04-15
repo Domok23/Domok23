@@ -39,18 +39,15 @@ const domok = {
 > 🔑 200+ Contribution in Private Repos
 
 #### Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Domok23&show_icons=true&include_all_commits=true&theme=onedark" alt="Doom's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" height="150em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Domok23&layout=compact&theme=onedark" />
-</a>
-<br />
-<br />
+<h2 align="center">My Github Stats</h2>
 <p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Domok23&theme=onedark" alt="Domok23" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domok23&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Domok23&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Domok23&theme=holi-theme">
 </p>
 
 #### Contribution Graph
