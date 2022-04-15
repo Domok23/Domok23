@@ -85,3 +85,14 @@ Android Studio Code      1 Hour              ███████████�
 💻 Operating System:
 Windows 11               14 hrs 2 mins       █████████████████████████   100.0%
 ```
+
+<h2 align="center">My Github Stats</h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domok23&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Domok23&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Domok23&theme=holi-theme">
+</p>
