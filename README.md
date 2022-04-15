@@ -49,7 +49,8 @@ const domok = {
 >
 > 🔑 200+ Contribution in Private Repos
 
-<h2 align="center">Contribution Graph</h2>
+#### Contribution Graph
+
 [![Domok's github activity graph](https://activity-graph.herokuapp.com/graph?username=Domok23&theme=react-dark)](https://github.com/Domok23/github-readme-activity-graph)
 
 <!---
