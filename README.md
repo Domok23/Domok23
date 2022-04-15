@@ -39,21 +39,21 @@ const domok = {
 #### Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrBlueBird2&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Domok23&show_icons=true&include_all_commits=true&theme=onedark" alt="Doom's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrBlueBird2&layout=compact&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Domok23&layout=compact&theme=onedark" />
 </a>
 <br />
 <br />
 <p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=onedark" alt="MrBlueBird2" />
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Domok23&theme=onedark" alt="Domok23" />
 </p>
 
 #### Contribution Graph
 
-[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Domok23&theme=react-dark)](https://github.com/Domok23/github-readme-activity-graph)
+[![Domok's github activity graph](https://activity-graph.herokuapp.com/graph?username=Domok23&theme=react-dark)](https://github.com/Domok23/github-readme-activity-graph)
 
 <!---
 MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -73,13 +73,13 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Lanuages:
-HTML                     3 hr 50 mins        ███████████░░░░░░░░░░░░░░   46%
+JS                       3 hr 50 mins        ███████████░░░░░░░░░░░░░░   46%
 CSS                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   30%
-Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10%
+PHP                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10%
 GitHub & Git             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   9.5%
 🔥 Editors:
-VS Code                  4 Hours            ██████████████░░░░░░░░░░░   50%
-Android Studio Code      1 Hour             ██████████████░░░░░░░░░░░   50%
+VS Code                  4 Hours             ██████████████░░░░░░░░░░░   50%
+Android Studio Code      1 Hour              ██████████████░░░░░░░░░░░   50%
 💻 Operating System:
-Windows 11               14 hrs 2 mins      █████████████████████████   100.0%
+Windows 11               14 hrs 2 mins       █████████████████████████   100.0%
 ```
