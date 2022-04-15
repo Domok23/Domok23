@@ -11,6 +11,8 @@
   <li>❤️ I love Creating websites and Mobile Programming.</li>
   <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, PHP, and JS.</li>
   <li>💼 I'm a Back end developer at KPMKR-KKJ.</li>
+  <li>💞 I’m looking to collaborate on small start up</li>
+  <li>📫 How to reach me ig: whyuoktv__ or email: wahyur2bro@gmail.com</li>
   <li>🧐 Portfolio Website, https://domok23.github.io/myProfile/</li>
 </ul>
 
