@@ -29,7 +29,7 @@ const domok = {
   },
 };
 ```
-
+#
 <h2 align="center">My Github Stats</h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domok23&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
@@ -57,7 +57,7 @@ const domok = {
 MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+#
 <h2 align="center">I'm an Early 🐤</h2>
 
 ```text
@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 🌃 Evening    82 commits     ██████░░░░░░░░░░░░░░░░░░░   20.5%
 🌙 Night      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
 ```
-
+#
 <h2 align="center">I Spent My Time On</h2>
 
 ```text
