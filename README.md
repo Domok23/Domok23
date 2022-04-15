@@ -31,7 +31,7 @@ const domok = {
 ```
 
 
-<h2>My Github Stats</h2>
+<h3 align="center">My Github Stats</h3>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domok23&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h3 align="center">I'm an Early 🐤</h3>
+<h3>I'm an Early 🐤</h3>
 
 ```text
 🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   12.5%
@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h3 align="center">I Spent My Time On</h3>
+<h3>I Spent My Time On</h3>
 
 ```text
 💬 Programming Languages:
