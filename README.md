@@ -30,6 +30,7 @@ const domok = {
 };
 ```
 
+
 <h2 align="center">My Github Stats</h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domok23&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
@@ -59,6 +60,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+
 <h2 align="center">I'm an Early 🐤</h2>
 
 ```text
@@ -67,6 +69,7 @@ You can click the Preview link to take a look at your changes.
 🌃 Evening    82 commits     ██████░░░░░░░░░░░░░░░░░░░   20.5%
 🌙 Night      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
 ```
+
 
 
 <h2 align="center">I Spent My Time On</h2>
@@ -83,7 +86,4 @@ Android Studio Code      1 Hour              ███████████�
 💻 Operating System:
 Windows 11               14 hrs 2 mins       █████████████████████████   100.0%
 ```
-
-
-![snake gif](https://github.com/Domok23/Domok23/blob/output/github-contribution-grid-snake.svg)
 
