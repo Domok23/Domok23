@@ -30,15 +30,6 @@ const domok = {
 };
 ```
 
-#### My GitHub Data :octocat:
-
-> 🏆 42+ Contributions in the Year 2021
->
-> 📜 200+ Commits on GitHub
->
-> 🔑 200+ Contribution in Private Repos
-
-#### Stats
 <h2 align="center">My Github Stats</h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domok23&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
@@ -50,8 +41,15 @@ const domok = {
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Domok23&theme=holi-theme">
 </p>
 
-#### Contribution Graph
+#### My GitHub Data :octocat:
 
+> 🏆 42+ Contributions in the Year 2021
+>
+> 📜 200+ Commits on GitHub
+>
+> 🔑 200+ Contribution in Private Repos
+
+<h2 align="center">Contribution Graph</h2>
 [![Domok's github activity graph](https://activity-graph.herokuapp.com/graph?username=Domok23&theme=react-dark)](https://github.com/Domok23/github-readme-activity-graph)
 
 <!---
@@ -59,7 +57,7 @@ MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-#### I'm an Early 🐤
+<h2 align="center">I'm an Early 🐤</h2>
 
 ```text
 🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   12.5%
@@ -68,10 +66,10 @@ You can click the Preview link to take a look at your changes.
 🌙 Night      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
 ```
 
-#### I Spent My Time On
+<h2 align="center">I Spent My Time On</h2>
 
 ```text
-💬 Programming Lanuages:
+💬 Programming Languages:
 JS                       3 hr 50 mins        ███████████░░░░░░░░░░░░░░   46%
 CSS                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   30%
 PHP                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10%
@@ -83,13 +81,3 @@ Android Studio Code      1 Hour              ███████████�
 Windows 11               14 hrs 2 mins       █████████████████████████   100.0%
 ```
 
-<h2 align="center">My Github Stats</h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domok23&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Domok23&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Domok23&theme=holi-theme">
-</p>
