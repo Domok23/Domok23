@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h2 align="center">I'm an Early 🐤</h2>
+<h3 align="center">I'm an Early 🐤</h3>
 
 ```text
 🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   12.5%
@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h2 align="center">I Spent My Time On</h2>
+<h3 align="center">I Spent My Time On</h3>
 
 ```text
 💬 Programming Languages:
