@@ -87,7 +87,7 @@ Android Studio Code      1 Hour              ███████████�
 Windows 11               14 hrs 2 mins       █████████████████████████   100.0%
 ```
 
-<p align="center">
+<!-- <p align="center">
   <img  src="https://raw.githubusercontent.com/Domok23/EDomok23/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
-</p>
+</p> -->
