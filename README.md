@@ -42,7 +42,7 @@ const domok = {
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Domok23&theme=holi-theme">
 </p>
 
-#### My GitHub Data :octocat:
+#### My GitHub Data
 
 > 🏆 42+ Contributions in the Year 2021
 >
