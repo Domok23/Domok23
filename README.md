@@ -44,7 +44,7 @@ const domok = {
 
 #### My GitHub Data
 
-> 🏆 42+ Contributions in the Year 2021
+> 🏆 42+ Contributions in the Year
 >
 > 📜 200+ Commits on GitHub
 >
