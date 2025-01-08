@@ -50,9 +50,11 @@ const domok = {
 >
 > 🔑 200+ Contribution in Private Repos
 
+<!--- 
 #### Contribution Graph
 
 [![Domok's github activity graph](https://activity-graph.herokuapp.com/graph?username=Domok23&theme=react-dark)](https://github.com/Domok23/github-readme-activity-graph)
+--->
 
 <!---
 MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
