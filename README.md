@@ -13,7 +13,7 @@
   <li>💼 I'm a Back end developer at KPMKR-KKJ.</li>
   <li>💞 I’m looking to collaborate on small start up</li>
   <li>📫 How to reach me ig: whyuoktvn__ or email: wahyur2bro@gmail.com</li>
-  <li>🧐 Portfolio Website, https://domok23.github.io/myProfile/</li>
+  <li>🧐 Portfolio Website, domok23.github.io/myProfile/</li>
 </ul>
 
 #### A little more about me
